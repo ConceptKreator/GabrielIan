@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/GabrielIan.github.io/sitemap.xml
+Sitemap: http://gabrielian.net/sitemap.xml
