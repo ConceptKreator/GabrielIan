@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A personal portfolio and blog.
 
 url:  "http://gabrielian.net"
-baseurl:  "/GabrielIan"
+baseurl:  "/GabrielIan.github.io"
 twitter_username: GabrielIRoth
 github_username:  ConceptKreator
 
