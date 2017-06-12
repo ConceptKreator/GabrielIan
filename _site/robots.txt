@@ -1,1 +1,1 @@
-Sitemap: http://gabrielian.net/sitemap.xml
+Sitemap: http://gabrielian.net/GabrielIan/sitemap.xml
