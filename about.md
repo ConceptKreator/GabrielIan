@@ -7,23 +7,18 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+Welcome. In case you hadn't already figured it out, my name is Gabriel, and you've arrived at my online home. This is where I keep my <a href="/portfolio">portfolio</a>. This is also where I rant about all things design, usability, agile, and the intersection of all those, and many other, things. You can also find my <a href="/resume">resume</a> and some outbound links to <a href="https://www.instagram.com/conceptkreator/?hl=en" target="_blank">Instagram</a> and <a href="https://www.linkedin.com/in/gabrielroth/" target="_blank">LinkedIn</a>.
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
-
-
+When I'm not consulting on some agile or usability study; I try to spend my spare time outdoors. I can usually be found (or not as is really the point) with my family, hiking, camping, kayaking, mountain biking, or snowboarding; really anything outdoorsy I can use as an excuse  to be outside.
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
+	<a href="mailto:gabrielianroth@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://www.linkedin.com/in/gabrielroth/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://www.instagram.com/conceptkreator/?hl=en" target="_blank"><i class="fa fa-instagram"></i></a>
 	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
 </div>
-

@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   A personal portfolio and blog.
 baseurl:  ""
 url:  "http://gabrielian.net"
-twitter_username: twitter_username
-github_username:  github_username
+twitter_username: GabrielIRoth
+github_username:  ConceptKreator
 
 # Build settings
 markdown: kramdown
@@ -22,8 +22,6 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  poetry:
+  resume:
     output: true
-    permalink: /poetry/:path/
-
-
+    permalink: /resume/:path/
