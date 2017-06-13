@@ -86,5 +86,5 @@ description: A chronological accounting of my time in the trenches... some of it
         <h4 class="work-date">March 2014</h4>
         <h4 class="work-place">Certified Scrum Master &mdash; cPrime & Agile Alliance</h4>
     </ul>
-download a PDF copy of this <a href="#">here</a>
+Download a PDF copy of this <a href="#">here</a>.
 </div>
