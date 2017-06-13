@@ -1,1 +1,1 @@
-Sitemap: http://gabrielian.net/GabrielIan.github.io/sitemap.xml
+Sitemap: /sitemap.xml
