@@ -37,7 +37,7 @@ ul.work-items { margin-bottom: 1rem; }
 ul.work-items h4 { font-size: 1rem; margin-left: -2rem; }
 ul.work-items h4.work-date { font-weight: 700; line-height: 120%; margin-top: 0.8rem; }
 ul.work-items h4.work-place { font-weight: 500; }
-ul.work-items p { font-size: 1rem; margin-left: -2rem; margin-bottom: 0; }
+ul.work-items p { font-size: 1rem; margin-left: -2rem; margin-bottom: 0.5rem; }
 ul.work-items .skills-row { height: auto; width: 100%; }
 ul.work-items .skills-row .one { width: 33.333333%; padding: 2px; }
 ul.work-items .skills-row .one:last-child { margin-bottom: 1rem; }
