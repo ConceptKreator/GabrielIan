@@ -80,5 +80,5 @@ description: A chronological accounting of my time in the trenches... some of it
         <h4 class="work-place">IxDA, Sacramento</h4>
         <h4 class="work-place">IGDA, Sacramento</h4>
     </ul>
-Download a PDF copy of this <a href="#">here</a>.
+Download a PDF copy of this <a href="/GabrielIan.github.io/_resume/RothGabriel_Resume.pdf">here</a>.
 </div>
